@@ -47,6 +47,10 @@ The A* algorithm used in this script works as follows:
 - Change the start and goal positions by updating the variables `startPosition` and `goalPosition`.
 - Adjust the robot's height and trajectory parameters as needed.
 
+## Result
+
+![Path Planned For Robot!](AStar_Path_Planner.png)
+
 ## Notes
 - Ensure that the start position is not inside any obstacles to avoid errors during path planning.
 - Additional customization options and functionalities can be implemented based on specific requirements.
