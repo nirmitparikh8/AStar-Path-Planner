@@ -53,4 +53,3 @@ The A* algorithm used in this script works as follows:
 
 ## Notes
 - Ensure that the start position is not inside any obstacles to avoid errors during path planning.
-- Additional customization options and functionalities can be implemented based on specific requirements.
