@@ -3,10 +3,6 @@
 ## Overview
 This repository demonstrates path planning using the A* algorithm for a mobile robot navigating through a maze-like environment. The code generates a scenario with walls and obstacles, plans a path from a specified start position to a goal position, and simulates the robot's movement along the planned path.
 
-## Requirements
-- MATLAB R2019a or later
-- MATLAB Robotics System Toolbox
-
 ## Usage
 1. Open MATLAB.
 2. Set the current directory to the location of the script.
@@ -53,3 +49,6 @@ The A* algorithm used in this script works as follows:
 
 ## Notes
 - Ensure that the start position is not inside any obstacles to avoid errors during path planning.
+
+## Aknowledgements
+- This project was developed with the assistance of MathWorks resources.
